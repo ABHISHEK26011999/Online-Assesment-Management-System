@@ -10,7 +10,7 @@ session_start();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Futo student Management App</title>
+    <title>Online Assessment Management </title>
 
     <link rel="stylesheet" href="css/index.css">
 </head>
@@ -20,11 +20,11 @@ session_start();
     <section id="homePage">
         <header>
             <img src="img/FUTO.png" alt="futo logo">
-            <h1>Federal university of technology Owerri</h1>
+            <h1>GLA University Mathura</h1>
         </header>
 
         <div>
-            <h2>Online Assignment Management system</h2>
+            <h2>Online Assessment Management system</h2>
         </div>
 
     
